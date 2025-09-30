@@ -16,5 +16,7 @@
 - CSS
 - Imagens locais (sem uso de API externa)
 
+## 📸 Preview
 
+![Space-App](https://raw.githubusercontent.com/DaissaMatias/space-app/refs/heads/main/public/imagens/print-pag-inteira.png)
 
